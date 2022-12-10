@@ -1,11 +1,3 @@
-# SDeSalve Home Assistant Integration: zcsazzurro
-
-[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee] [![Support my work on Paypal][paypal-shield]][paypal]
-
-This integration allows you to polling your ZCS Azzurro inverter's realtime data from API.
-
-Now support the new ZCS API.
-
 ## Usage:
 Obtain your Device Serial/ThingKey and your Authorization header value from ZCS Zucchetti.
 
